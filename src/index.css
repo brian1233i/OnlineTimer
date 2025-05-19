@@ -1,15 +1,7 @@
 .homepage{
-    background-image:url(https://assets2.razerzone.com/images/downloads-page/thumbnails/design-labs_thumbnail.jpg);
-    width: 110vw;
-    height: 110vh;
-    margin: 0;
-
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-left: auto;
-    
+background-color: rgb(40, 59, 135);
+    color: white;
+    height:100vh ;
 }
 
 
