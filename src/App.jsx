@@ -43,7 +43,7 @@ function App() {
           >
             {({ remainingTime }) => remainingTime}
           </CountdownCircleTimer>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZGUAsa1jcazBNaWOBRc8pAzTGUb2axHzIQ&s" />
+          <img src="https://us.123rf.com/450wm/zinetron/zinetron2402/zinetron240217682/226145996-nonstop-service-concept-businessman-holding-the-clock-nonstop-and-full-time-for-worldwide-nonstop.jpg?ver=6" />
         </Col>
         <Col>
           {" "}
@@ -53,13 +53,15 @@ function App() {
               <button> timer</button>
           <Tabs defaultActiveKey={"home"} className="m-3">
             <Tab eventKey={"home"} title="home">
+
               <h1>Home Page</h1>
               <h1>
                 mi project sobre el reloj en el 2025 el cual muestra la
                 importancia del tiempo y cuanto el tiempo vale mucho
                 <AiOutlineBars />
+                
               </h1>
-
+              
              
               <div></div>
             </Tab>
