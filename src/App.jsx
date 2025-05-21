@@ -53,11 +53,12 @@ function App() {
               <button> timer</button>
           <Tabs defaultActiveKey={"home"} className="m-3">
             <Tab eventKey={"home"} title="home">
+            
 
               <h1>Home Page</h1>
               <h1>
                 mi project sobre el reloj en el 2025 el cual muestra la
-                importancia del tiempo y cuanto el tiempo vale mucho
+                importancia del tiempo y cuanto el tiempo vale mas que el oro
                 <AiOutlineBars />
                 
               </h1>
@@ -66,9 +67,14 @@ function App() {
               <div></div>
             </Tab>
             <Tab eventKey={"other"} title="other"> 
-              
+            
               Otro Tab
             </Tab>
+            <Tab eventKey="Result" title="Result">
+            
+        Tab content for Contact
+      </Tab>
+      
           </Tabs>
         </Col>
       </Row>
